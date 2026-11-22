@@ -14,8 +14,8 @@ export default function About(){return(<section id="about"><div className="wrap"
     <p>Alongside web development, I offer freelance digital solutions: Meta and Google advertising campaigns, and creative video editing — so local businesses can get their website, their ads and their content from one person.</p></Reveal>
   <Reveal delay={.15}><div className="grid stats">
     <div className="card stat"><Count n={3} s="+"/><span>Years Experience</span></div>
-    <div className="card stat"><Count n={5} s="+"/><span>Projects</span></div>
-    <div className="card stat"><Count n={4}/><span>Core Services</span></div></div>
+    <div className="card stat"><Count n={15} s="+"/><span>Projects</span></div>
+    <div className="card stat"><Count n={10} s="+"/><span>Core Services</span></div></div>
     <div className="tl"><div><b>Freelance Digital Solutions &amp; Creative Services</b><small>Websites · Meta Ads · Google Ads · Video Editing</small></div>
       <div><b>Junior Embedded Engineer</b><small>Current role</small></div></div></Reveal>
 </div></div></section>)}
